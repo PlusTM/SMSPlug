@@ -1,8 +1,10 @@
-# AdsBot
 
+# SMS PLUGIN PYTHON/LUA/MOON
 
+[PlusTM](https://telegram.me/PlusTM)
 
+**THANKS TO SEEDTEAM**
 
-Telegeam cli bot !
+# PLEASE GIVE WE STAR:)
 
-PLUSTM | NeroTeam
+-----**PLUSTEAM**-----
